@@ -1,4 +1,4 @@
-package com.app.utb.sfgpetclinicspringboot2;
+package sfgpetclinicspringboot2;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
